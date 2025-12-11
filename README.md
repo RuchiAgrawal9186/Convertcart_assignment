@@ -56,4 +56,12 @@ npm run seed
 ## ▶️ Start the Server
 npm run dev
 
+## 🧱 Tech Stack
+
+- Node.js
+- Express.js
+- MongoDB
+- Mongoose
+- Nodemon (development)
+
 
