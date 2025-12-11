@@ -3,7 +3,7 @@
 ## 🍽️ Restaurant Dish Search API
 A simple backend service that allows users to search for restaurants based on a dish name and price range, returning the top 10 restaurants where that dish
 
-# LIVE API - https://convertcart-assignment-yf92.onrender.com/api/search/dishes?name=biryani&minPrice=150&maxPrice=300
+### LIVE API - https://convertcart-assignment-yf92.onrender.com/api/search/dishes?name=biryani&minPrice=150&maxPrice=300
 
 ## 📌 Key Features
 
